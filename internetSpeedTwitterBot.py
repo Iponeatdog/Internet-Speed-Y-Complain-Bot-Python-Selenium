@@ -7,8 +7,8 @@ from selenium.webdriver.support import expected_conditions as ec
 
 PROMISED_DOWN = 1000
 PROMISED_UP = 1000
-Y_EMAIL = "yogurtprovider67@gmail.com"
-Y_PASSWORD = "SUs3VcfF89UmyEzY"
+Y_EMAIL = "@gmail.com"
+Y_PASSWORD = ""
 Y_LOGIN_URL = "https://app.100daysofpython.dev/services/y#"
 INTERNET_SPEED_URL = "https://fast.com/"
 
